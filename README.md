@@ -11,8 +11,6 @@
 
 ## Demo
 
-
-
 ## Why Choose FlexHome?
 
 - **Coding Standards**: Follows PSR-2 coding standards and best practices, validated by **Codeship**.
@@ -23,6 +21,4 @@
 - **Customizable Admin Template**: Comes with color schemes to match your design preferences.
 
 ## Author
-**arjan**  
-
-
+**arjan**
